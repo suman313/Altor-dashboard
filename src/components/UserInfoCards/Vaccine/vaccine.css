@@ -1,0 +1,30 @@
+.vector-icon {
+    position: relative;
+    width: 1rem;
+    /* height: 1.2rem;s */
+    flex-shrink: 0;
+  }
+  .rider_vaccine {
+    position: relative;
+    font-size: 0.4rem;
+    font-family: Nunito;
+    color: #5cc854;
+    text-align: left;
+  }
+  .profile-card-info-card-vaccine {
+    cursor: pointer;
+    border: 0;
+    padding: 11px 0px;
+    background-color: rgba(16, 201, 0, 0.22);
+    position: relative;
+    border-radius: 17.3px;
+    box-shadow: 0 0 8.65px rgba(137, 132, 132, 0.21);
+    width: 3rem;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  

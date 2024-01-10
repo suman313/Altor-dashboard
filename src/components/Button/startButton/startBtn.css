@@ -1,0 +1,25 @@
+.start-button-txt {
+    position: relative;
+    font-size: 1.2rem;
+    font-family: Nunito;
+    color: #fff;
+    text-align: left;
+  }
+  .start-button {
+    width: 15%;
+    /* grid-column: span 2; */
+    cursor: pointer;
+    border: 0;
+    margin: 0.5rem 0;
+    background-color: #00bd4c;
+    position: relative;
+    border-radius: 42px;
+    box-shadow: 0 0 10px rgba(137, 132, 132, 0.21);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+  }
+  

@@ -1,0 +1,34 @@
+.rider_exp {
+    position: relative;
+    font-size: 0.6rem;
+    font-family: Nunito;
+    color: #f80;
+    text-align: center;
+  }
+  .ride {
+    margin: 0;
+  }
+  .rider1_exp {
+    position: relative;
+    font-size: 0.4rem;
+    font-family: Nunito;
+    color: #f80;
+    text-align: center;
+  }
+  .profile-card-info-card_exp {
+    cursor: pointer;
+    border: 0;
+    padding: 11px 0px;
+    background-color: rgba(255, 168, 67, 0.25);
+    position: relative;
+    border-radius: 17.3px;
+    box-shadow: 0 0 8.65px rgba(137, 132, 132, 0.21);
+    width: 3rem;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  

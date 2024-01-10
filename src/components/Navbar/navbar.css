@@ -1,0 +1,38 @@
+nav {
+    width: 100%;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px #c3bebe solid;
+}
+
+.dash-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 3rem;
+    background: #0F0B1F;
+    color: azure;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.first-panel {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 3rem;
+    margin-left: 2rem;
+}
+.user_info {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 2rem;
+    margin-right: 4rem;
+}
+.admin-info {
+    text-align: center;
+}

@@ -1,0 +1,10 @@
+.status {
+    text-align: center;
+    background: rgba(5, 137, 66, 0.17);
+    color: #00E532;
+    border: none;
+    border-radius: 39px;
+    /* padding: 0.5rem 2rem; */
+    font-size: 1.2rem;
+    width: 150px;
+}
